@@ -4,9 +4,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="330" src="https://media.discordapp.net/attachments/1253565073495167088/1284369983173951520/a_4dd6176c8e30f40bf741cb3e71dca4ef.gif?ex=67b017c2&is=67aec642&hm=d045550387f134e655d98ff4c578bd26ec3c7458b9c789091143c845176a2f5a&=&width=406&height=406">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyakkon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+
+<img align="right" alt="Coding" width="330" src="https://media.discordapp.net/attachments/1253565073495167088/1284369983173951520/a_4dd6176c8e30f40bf741cb3e71dca4ef.gif?ex=67b017c2&is=67aec642&hm=d045550387f134e655d98ff4c578bd26ec3c7458b9c789091143c845176a2f5a&=&width=406&height=406">
 
 - 🌱 I’m currently learning **C#**, **Python**, **Java**, and **React**  
 - 💬 Ask me about **C#**, **PHP**, **Python**, **Java**, and **MySQL**  
