@@ -5,10 +5,9 @@
   I love crafting clean and efficient code while constantly learning new technologies to improve myself every day!
 </p>
 
----
-
 <div align="center">
   <img src="https://media.discordapp.net/attachments/1253565073495167088/1284369983173951520/a_4dd6176c8e30f40bf741cb3e71dca4ef.gif?ex=67b017c2&is=67aec642&hm=d045550387f134e655d98ff4c578bd26ec3c7458b9c789091143c845176a2f5a&=&width=406&height=406" alt="Coding" width="330" />
+  <img src="image.png" alt="Second Image" width="330" />
 </div>
 
 ---
