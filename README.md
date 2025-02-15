@@ -64,7 +64,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyakkon&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyakkon&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyakkon&show_icons=true&locale=en" alt="github stats" /></p>
 
 ---
