@@ -66,7 +66,7 @@
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img style="padding-right: 0px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyakkon&show_icons=true&locale=en&layout=compact" alt="top languages" width="42.3%" />
-  <img style="padding-left: 3px;"align="center" src="https://github-readme-stats.vercel.app/api?username=nyakkon&show_icons=true&locale=en" alt="github stats" width="55%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nyakkon&show_icons=true&locale=en" alt="github stats" width="55%" />
 </p>
 
 
